@@ -20,19 +20,19 @@ This app was built for three different types of users:
 👾Login/Sign up : For every new user, enter the role (doctor/patient/guardian) and personal details 
 
 I. 🧓 Patient Dashboard: 
-👾User interface specifically designed for the elderly, with large, legible fonts, clear icons, intuitive navigation, and a visually friendly layout to ensure accessibility and ease of use.
-👾Can view Medical History, Medications, Health Metrics, Mental Health Check and Appointments 
-👾Easy tracking of mental health by rating of each category. 
+👾User interface specifically designed for the elderly, with large, legible fonts, clear icons, intuitive navigation, and a visually friendly layout to ensure accessibility and ease of use. <br>
+👾Can view Medical History, Medications, Health Metrics, Mental Health Check and Appointments <br>
+👾Easy tracking of mental health by rating of each category. <br>
 
 II. 🧑 Guardian Dashboard: 
-👾Assign a maximum of four patients
-👾Seperate patient tracker dashboards for every assigned patient 
-👾Patient Tracker helps the guardian view Medical History, Medications, Health Metrics, Mental Health Check and Appointments 
-👾Can enter and update daily Health Metrics, Mental Health check in and make appointments. 
+👾Assign a maximum of four patients <br>
+👾Seperate patient tracker dashboards for every assigned patient <br>
+👾Patient Tracker helps the guardian view Medical History, Medications, Health Metrics, Mental Health Check and Appointments <br>
+👾Can enter and update daily Health Metrics, Mental Health check in and make appointments. <br>
 
 III.👩‍⚕️ Doctor Dashboard: 
-👾Seperate patient tracker dashboards for every patient 
-👾Can view Medical History, Medications, Health Metrics, Mental Health Check and Appointments 
-👾Can enter and update Medical History, Medications
+👾Seperate patient tracker dashboards for every patient <br>
+👾Can view Medical History, Medications, Health Metrics, Mental Health Check and Appointments <br>
+👾Can enter and update Medical History, Medications<br>
 
 
