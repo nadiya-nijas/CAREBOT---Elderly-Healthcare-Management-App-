@@ -35,4 +35,15 @@ III.👩‍⚕️ Doctor Dashboard: <br>
 - Can view Medical History, Medications, Health Metrics, Mental Health Check and Appointments <br>
 - Can enter and update Medical History, Medications<br>
 
+## 💻Developing Environment 
+I. Frontend: <br>
+- Framework: Flutter <br>
+- Language: Dart <br>
+- UI Toolkit: Flutter Material Components <br>
+- Platform: Android <br>
+
+II. Backend: <br>
+- Database: Firebase Firestore <br>
+- Authetication: Firebase Authentication <br>
+
 
