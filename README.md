@@ -20,7 +20,7 @@ This app was built for three different types of users:
 👾Login/Sign up : For every new user, enter the role (doctor/patient/guardian) and personal details 
 
 I. 🧓 Patient Dashboard: 
-👾User interface specifically designed for the elderly, with large, legible fonts, clear icons, intuitive navigation, and a visually friendly layout to ensure accessibility and ease of use
+👾User interface specifically designed for the elderly, with large, legible fonts, clear icons, intuitive navigation, and a visually friendly layout to ensure accessibility and ease of use.
 👾Can view Medical History, Medications, Health Metrics, Mental Health Check and Appointments 
 👾Easy tracking of mental health by rating of each category. 
 
