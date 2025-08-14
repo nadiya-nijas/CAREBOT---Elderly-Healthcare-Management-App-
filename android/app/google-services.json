@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716266086691",
+    "project_id": "carebot-525da",
+    "storage_bucket": "carebot-525da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716266086691:android:808bc3ee7a8f90f38bac96",
+        "android_client_info": {
+          "package_name": "com.example.carebot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz83XDQ82XNIxp66eGVNaFbGTTyZBYrdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
